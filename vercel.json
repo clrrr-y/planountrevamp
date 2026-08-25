@@ -1,4 +1,3 @@
-{"redirects":[{"source":"/","destination":"/planout_merged.html","permanent":false}]}
 {
   "rewrites": [
     { "source": "/", "destination": "/planout_merged.html" }
